@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3EDB0E1D-464A-4387-A20F-9D3BDCD02FA1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FLTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DB51ADA6BCC548EC27DB2C0108822857B156DFF9</key>
+		<string>https://github.com/richardreyes/FLTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FLTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DB51ADA6BCC548EC27DB2C0108822857B156DFF9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/richardreyes/FLTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DB51ADA6BCC548EC27DB2C0108822857B156DFF9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DB51ADA6BCC548EC27DB2C0108822857B156DFF9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FLTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
