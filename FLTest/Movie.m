@@ -6,11 +6,4 @@
 #import "Movie.h"
 
 @implementation Movie
-
-@synthesize name;
-@synthesize start_time;
-@synthesize end_time;
-@synthesize channel;
-@synthesize rating;
-
 @end

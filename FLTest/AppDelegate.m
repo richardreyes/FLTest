@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "FLTDataManager.h"
 
 @implementation AppDelegate
 
@@ -14,6 +15,11 @@
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
+    
+    FLTDataManager *datamanager =  [FLTDataManager sharedInstance];
+    
+    [datamanager getFeeds];
+    
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     

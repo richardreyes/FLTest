@@ -7,10 +7,10 @@
 
 @interface Movie : NSObject
 
-@property (nonatomic, copy) NSString *name;
-@property (nonatomic, copy) NSString *start_time;
-@property (nonatomic, copy) NSString *end_time;
-@property (nonatomic, copy) NSString *channel;
-@property (nonatomic, copy) NSString *rating;
+@property (nonatomic, strong) NSString *name;
+@property (nonatomic, strong) NSString *start_time;
+@property (nonatomic, strong) NSString *end_time;
+@property (nonatomic, strong) NSString *channel;
+@property (nonatomic, strong) NSString *rating;
 
 @end

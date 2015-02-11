@@ -11,5 +11,9 @@
 #ifdef __OBJC__
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
+    #import "AFNetworking.h"
+    #import "TMCache.h"
+
 #define URL @"http://www.whatsbeef.net/wabz/guide.php?start="
+#define FEED_KEY @"feed-key"
 #endif

@@ -8,8 +8,11 @@ This project displays 10 rows of data at once, the User scrolls to the bottom of
 Tasks:
 1. Identify bugs and fix them as the app cannot load 10 rows of data, we do not know where we did wrong
 2. Identify and fix the performance issue in the app. 
+
 3. Implement a new feature that you can remove a program from the list
+
 4. Make sure the app can work without internet connection
+
 5. It is old code need to convert to iOS 7 and use autolayout
 
 
