@@ -1,0 +1,19 @@
+#iOS Candidate Exercise
+
+Timeline: no more than 3 hours
+
+Description:
+This project displays 10 rows of data at once, the User scrolls to the bottom of the list it should automatically load more data and add it to the list view. 
+
+Tasks:
+1. Identify bugs and fix them as the app cannot load 10 rows of data, we do not know where we did wrong
+2. Identify and fix the performance issue in the app. 
+3. Implement a new feature that you can remove a program from the list
+4. Make sure the app can work without internet connection
+5. It is old code need to convert to iOS 7 and use autolayout
+
+
+##Guidelines
+* Support iOS6 and above
+* Feel free to make use of any open source libraries you feel are of production quality.
+* The project should be under source control (git recommended) and be able to check the history of the commits
